@@ -6,3 +6,6 @@
 ## Installation and documentation
 Installation instructions and other general documentation are included in the **documentation.odt** file.
 The reason for this approach is so that people can read the documentation without internet access and/or print it without any issues.
+
+## Contributing to Pelion
+Submitting bug reports, bug fixes, as well as feature requests to Pelion is greatly encouraged! Feel free to submit an issue or pull request whenever you have something that will help improve Pelion.
